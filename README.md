@@ -59,7 +59,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thomasreolon2&repo=digitoon)](https://github.com/thomasreolon2/digitoon) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thomasreolon2&repo=MERN-Auth-1)](https://github.com/thomasreolon2/MERN-Auth-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thomasreolon2&repo=digitoon)](https://github.com/thomasreolon2/digitoon) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thomasreolon2&repo=Proffy)](https://github.com/thomasreolon2/Proffy)
 ---
 
 #### Where everything Starts:
