@@ -25,6 +25,8 @@
 #### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+ 
 
 #### A.I 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -35,6 +37,8 @@
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+ ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+ ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
  
 #### Others
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6.svg?style=for-the-badge&logo=app-store&logoColor=white)
