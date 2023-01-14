@@ -37,6 +37,8 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
  
 #### Others
+![App Store](https://img.shields.io/badge/App_Store-0D96F6.svg?style=for-the-badge&logo=app-store&logoColor=white)
+![Play Store](https://img.shields.io/badge/Play_Store-414141.svg?style=for-the-badge&logo=google-play&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
