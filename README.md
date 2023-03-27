@@ -62,6 +62,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scrum-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/cocoapods-ff0000.svg?style=for-the-badge&logo=CocoaPods&logoColor=white)
 
 <img width="50%" align="center" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
